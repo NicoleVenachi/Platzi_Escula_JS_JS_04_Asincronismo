@@ -1,0 +1,17 @@
+{
+  "name": "04_asincronimo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callbacks": "node ./src/callbacks/challenge.js",
+    "promises": "node ./src/promises/challenge.js",
+    "promises-post": "node ./src/promises/challenge-post.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  },
+  "type": "module"
+}
