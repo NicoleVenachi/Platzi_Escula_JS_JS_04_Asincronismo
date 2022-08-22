@@ -6,7 +6,9 @@
   "scripts": {
     "callbacks": "node ./src/callbacks/challenge.js",
     "promises": "node ./src/promises/challenge.js",
-    "promises-post": "node ./src/promises/challenge-post.js"
+    "promises-post": "node ./src/promises/challenge-post.js",
+    "async": "node src/async/challenge.js"
+    
   },
   "author": "",
   "license": "ISC",
